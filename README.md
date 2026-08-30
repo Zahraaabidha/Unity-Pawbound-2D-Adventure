@@ -19,7 +19,7 @@ The player controls a character running through a continuously scrolling 2D envi
 > **Run as far as possible, avoid obstacles, and achieve the highest score.**
 
 The game becomes progressively more challenging as the player survives longer.
-
+   
 ### Core Gameplay Loop
 
 ```text
