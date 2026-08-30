@@ -40,6 +40,7 @@ Continue Running
 Collision → GAME OVER
   ↓
 RESTART
+````
 
 ---
 
