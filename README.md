@@ -8,7 +8,7 @@ Pawbound combines player movement, jumping, obstacle avoidance, score progressio
 
 ## 📸 Gameplay
 
-![Pawbound Gameplay](public/unity_picture.png)
+![Pawbound Gameplay](public/unity_pic.png)
 
 ---
 
