@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 604ec794e283e1f47851b3a65b025ceb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5047333846658383689
+    second: CatKnight_Duck_0
+  - first:
+      213: 8766973162410971559
+    second: CatKnight_Duck_1
+  - first:
+      213: 5507924035657800324
+    second: CatKnight_Duck_2
+  - first:
+      213: -9118312441027002086
+    second: CatKnight_Duck_3
+  - first:
+      213: -1691399106812573683
+    second: CatKnight_Duck_4
+  - first:
+      213: -7863833952910172705
+    second: CatKnight_Duck_5
+  - first:
+      213: -5313835564438338976
+    second: CatKnight_Duck_6
+  - first:
+      213: 1854463954754594827
+    second: CatKnight_Duck_7
+  - first:
+      213: 556335596921052504
+    second: CatKnight_Duck_8
+  - first:
+      213: 4050181650750819819
+    second: CatKnight_Duck_9
+  - first:
+      213: 817607125215118678
+    second: CatKnight_Duck_10
+  - first:
+      213: -3685982769535145615
+    second: CatKnight_Duck_11
+  - first:
+      213: -7753235824041556512
+    second: CatKnight_Duck_12
+  - first:
+      213: -2777415722010687477
+    second: CatKnight_Duck_13
+  - first:
+      213: -4825460570269754128
+    second: CatKnight_Duck_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatKnight_Duck_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 280
+        width: 150
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ff0e0446bbb0640800000000000000
+      internalID: 5047333846658383689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 281
+        width: 155
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a193ec44ab8aa970800000000000000
+      internalID: 8766973162410971559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 280
+        width: 155
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a183b6ab3107c40800000000000000
+      internalID: 5507924035657800324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 280
+        width: 156
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a118f81552f357180800000000000000
+      internalID: -9118312441027002086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 280
+        width: 155
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0806094971f688e0800000000000000
+      internalID: -1691399106812573683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 286
+        width: 155
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd12282fac0ed290800000000000000
+      internalID: -7863833952910172705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 286
+        width: 155
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062c0d245b67146b0800000000000000
+      internalID: -5313835564438338976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_7
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 286
+        width: 155
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08e9e734216cb910800000000000000
+      internalID: 1854463954754594827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_8
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 286
+        width: 155
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d526e174088b700800000000000000
+      internalID: 556335596921052504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_9
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 280
+        width: 155
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcec8a0c2253830800000000000000
+      internalID: 4050181650750819819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_10
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 279
+        width: 156
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65586483959b85b00800000000000000
+      internalID: 817607125215118678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_11
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 278
+        width: 155
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179a5a54332c8dcc0800000000000000
+      internalID: -3685982769535145615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_12
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 280
+        width: 155
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e58b20b819f66490800000000000000
+      internalID: -7753235824041556512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Duck_13
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 277
+        width: 155
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c7ffbd13a479d0800000000000000
+      internalID: -2777415722010687477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CatKnight_Duck_0: 5047333846658383689
+      CatKnight_Duck_1: 8766973162410971559
+      CatKnight_Duck_10: 817607125215118678
+      CatKnight_Duck_11: -3685982769535145615
+      CatKnight_Duck_12: -7753235824041556512
+      CatKnight_Duck_13: -2777415722010687477
+      CatKnight_Duck_14: -4825460570269754128
+      CatKnight_Duck_2: 5507924035657800324
+      CatKnight_Duck_3: -9118312441027002086
+      CatKnight_Duck_4: -1691399106812573683
+      CatKnight_Duck_5: -7863833952910172705
+      CatKnight_Duck_6: -5313835564438338976
+      CatKnight_Duck_7: 1854463954754594827
+      CatKnight_Duck_8: 556335596921052504
+      CatKnight_Duck_9: 4050181650750819819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

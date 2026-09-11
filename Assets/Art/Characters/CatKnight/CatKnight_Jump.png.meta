@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: d4327b61e20159e4d8a7ee3988855500
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2227611098333560817
+    second: CatKnight_Jump_0
+  - first:
+      213: -6555346608877126894
+    second: CatKnight_Jump_1
+  - first:
+      213: -3682799092771120928
+    second: CatKnight_Jump_2
+  - first:
+      213: -2416210861474264152
+    second: CatKnight_Jump_3
+  - first:
+      213: -132479687582328604
+    second: CatKnight_Jump_4
+  - first:
+      213: 397375704291144438
+    second: CatKnight_Jump_5
+  - first:
+      213: -3447078333580372619
+    second: CatKnight_Jump_6
+  - first:
+      213: -969130385174104145
+    second: CatKnight_Jump_7
+  - first:
+      213: -8048419300814798962
+    second: CatKnight_Jump_8
+  - first:
+      213: -7104025858450714472
+    second: CatKnight_Jump_9
+  - first:
+      213: -6900024660456493177
+    second: CatKnight_Jump_10
+  - first:
+      213: -9088747801942448317
+    second: CatKnight_Jump_11
+  - first:
+      213: -2616354135717165809
+    second: CatKnight_Jump_12
+  - first:
+      213: 6870684214613484529
+    second: CatKnight_Jump_13
+  - first:
+      213: 5684978763087713557
+    second: CatKnight_Jump_14
+  - first:
+      213: 4800702567109086590
+    second: CatKnight_Jump_15
+  - first:
+      213: 6392089516835671974
+    second: CatKnight_Jump_16
+  - first:
+      213: 6052034208462569
+    second: CatKnight_Jump_17
+  - first:
+      213: -2177458249046416353
+    second: CatKnight_Jump_18
+  - first:
+      213: -6927103722013001698
+    second: CatKnight_Jump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 432
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatKnight_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 278
+        width: 116
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004c1a228fe511e0800000000000000
+      internalID: -2227611098333560817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 278
+        width: 114
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b315eadfab605a0800000000000000
+      internalID: -6555346608877126894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 278
+        width: 142
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81f38ccb114ecc0800000000000000
+      internalID: -3682799092771120928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 280
+        width: 145
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abc26be505e77ed0800000000000000
+      internalID: -2416210861474264152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 292
+        width: 127
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e853b11d66592ef0800000000000000
+      internalID: -132479687582328604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 320
+        width: 125
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f4a00913c38500800000000000000
+      internalID: 397375704291144438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 344
+        width: 125
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751ffdd4848920d0800000000000000
+      internalID: -3447078333580372619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 342
+        width: 144
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7f8a2ac05fc82f0800000000000000
+      internalID: -969130385174104145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 292
+        width: 145
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f398bc9454e4090800000000000000
+      internalID: -8048419300814798962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 278
+        width: 145
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8901bd7de1e696d90800000000000000
+      internalID: -7104025858450714472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 278
+        width: 145
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f2e0411203e30a0800000000000000
+      internalID: -6900024660456493177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 278
+        width: 145
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ab1447084ed180800000000000000
+      internalID: -9088747801942448317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 278
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0544fd86c7d0bbd0800000000000000
+      internalID: -2616354135717165809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 278
+        width: 145
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3abe704e2995f50800000000000000
+      internalID: 6870684214613484529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 278
+        width: 137
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159b71901a15ee40800000000000000
+      internalID: 5684978763087713557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CatKnight_Jump_0: -2227611098333560817
+      CatKnight_Jump_1: -6555346608877126894
+      CatKnight_Jump_10: -6900024660456493177
+      CatKnight_Jump_11: -9088747801942448317
+      CatKnight_Jump_12: -2616354135717165809
+      CatKnight_Jump_13: 6870684214613484529
+      CatKnight_Jump_14: 5684978763087713557
+      CatKnight_Jump_15: 4800702567109086590
+      CatKnight_Jump_16: 6392089516835671974
+      CatKnight_Jump_17: 6052034208462569
+      CatKnight_Jump_18: -2177458249046416353
+      CatKnight_Jump_19: -6927103722013001698
+      CatKnight_Jump_2: -3682799092771120928
+      CatKnight_Jump_3: -2416210861474264152
+      CatKnight_Jump_4: -132479687582328604
+      CatKnight_Jump_5: 397375704291144438
+      CatKnight_Jump_6: -3447078333580372619
+      CatKnight_Jump_7: -969130385174104145
+      CatKnight_Jump_8: -8048419300814798962
+      CatKnight_Jump_9: -7104025858450714472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

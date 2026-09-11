@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: ec3680d48846df14283104b0348b6e2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9151979655419799539
+    second: CatKnight_Death_0
+  - first:
+      213: 1705521021061552965
+    second: CatKnight_Death_1
+  - first:
+      213: -8288136764521969363
+    second: CatKnight_Death_2
+  - first:
+      213: 8199601503966464773
+    second: CatKnight_Death_3
+  - first:
+      213: -6328260742076408603
+    second: CatKnight_Death_4
+  - first:
+      213: -8228999608062323562
+    second: CatKnight_Death_5
+  - first:
+      213: 3144596241317893814
+    second: CatKnight_Death_6
+  - first:
+      213: 6847112092634130515
+    second: CatKnight_Death_7
+  - first:
+      213: -7353335819418526826
+    second: CatKnight_Death_8
+  - first:
+      213: -4621827347372374243
+    second: CatKnight_Death_9
+  - first:
+      213: -5365380099868660242
+    second: CatKnight_Death_10
+  - first:
+      213: -2586551757187527041
+    second: CatKnight_Death_11
+  - first:
+      213: -3536787465740894104
+    second: CatKnight_Death_12
+  - first:
+      213: 7343955583567052762
+    second: CatKnight_Death_13
+  - first:
+      213: 4184225630224187386
+    second: CatKnight_Death_14
+  - first:
+      213: -4468530219234468393
+    second: CatKnight_Death_15
+  - first:
+      213: 4559435207783275649
+    second: CatKnight_Death_16
+  - first:
+      213: -1200452149908863185
+    second: CatKnight_Death_17
+  - first:
+      213: 8036295014575862441
+    second: CatKnight_Death_18
+  - first:
+      213: -6783439606678395937
+    second: CatKnight_Death_19
+  - first:
+      213: -4132590563394909655
+    second: CatKnight_Death_20
+  - first:
+      213: 3108480528544213729
+    second: CatKnight_Death_21
+  - first:
+      213: -7396849195523260517
+    second: CatKnight_Death_22
+  - first:
+      213: 5755729535720058197
+    second: CatKnight_Death_23
+  - first:
+      213: 7409096032204696527
+    second: CatKnight_Death_24
+  - first:
+      213: 6483435352447382733
+    second: CatKnight_Death_25
+  - first:
+      213: -7545882186472741947
+    second: CatKnight_Death_26
+  - first:
+      213: -3265192671778804232
+    second: CatKnight_Death_27
+  - first:
+      213: 2248324257683833157
+    second: CatKnight_Death_28
+  - first:
+      213: -6755979833849594781
+    second: CatKnight_Death_29
+  - first:
+      213: -2810685507124290096
+    second: CatKnight_Death_30
+  - first:
+      213: -8312876033269074107
+    second: CatKnight_Death_31
+  - first:
+      213: -5709260047824394314
+    second: CatKnight_Death_32
+  - first:
+      213: 6453021747100243732
+    second: CatKnight_Death_33
+  - first:
+      213: 4500437929303518749
+    second: CatKnight_Death_34
+  - first:
+      213: 7398155072518445544
+    second: CatKnight_Death_35
+  - first:
+      213: 9182146231807992804
+    second: CatKnight_Death_36
+  - first:
+      213: -795817479662424520
+    second: CatKnight_Death_37
+  - first:
+      213: -1513150994906449999
+    second: CatKnight_Death_38
+  - first:
+      213: 3704387325470336047
+    second: CatKnight_Death_39
+  - first:
+      213: 9068387846468331943
+    second: CatKnight_Death_40
+  - first:
+      213: 2262844995515734627
+    second: CatKnight_Death_41
+  - first:
+      213: -5925088526140286843
+    second: CatKnight_Death_42
+  - first:
+      213: -1670334764692515059
+    second: CatKnight_Death_43
+  - first:
+      213: -5415703414558746079
+    second: CatKnight_Death_44
+  - first:
+      213: 4427305507048676473
+    second: CatKnight_Death_45
+  - first:
+      213: -1851264558219125643
+    second: CatKnight_Death_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatKnight_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 155
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08d91f1ef2adf080800000000000000
+      internalID: -9151979655419799539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 278
+        width: 155
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd559155a3ba710800000000000000
+      internalID: 1705521021061552965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 279
+        width: 155
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2900dc668f9afc80800000000000000
+      internalID: -8288136764521969363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 279
+        width: 156
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b0eafdf16dac170800000000000000
+      internalID: 8199601503966464773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 279
+        width: 155
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec5c7632608d28a0800000000000000
+      internalID: -6328260742076408603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 279
+        width: 155
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694dd90a478bccd80800000000000000
+      internalID: -8228999608062323562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 278
+        width: 155
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b618c5ee99d3ab20800000000000000
+      internalID: 3144596241317893814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 279
+        width: 155
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3582db2bb24d50f50800000000000000
+      internalID: 6847112092634130515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 278
+        width: 155
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b17692804b3f990800000000000000
+      internalID: -7353335819418526826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 276
+        width: 155
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d170faad388fbdfb0800000000000000
+      internalID: -4621827347372374243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_10
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 276
+        width: 156
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede066e9375a85b0800000000000000
+      internalID: -5365380099868660242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_11
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 276
+        width: 155
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ecca781e8ba1cd0800000000000000
+      internalID: -2586551757187527041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_12
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 276
+        width: 137
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860c572e98ecaeec0800000000000000
+      internalID: -3536787465740894104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Death_13
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 276
+        width: 149
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfb2cc71b8fae560800000000000000
+      internalID: 7343955583567052762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CatKnight_Death_0: -9151979655419799539
+      CatKnight_Death_1: 1705521021061552965
+      CatKnight_Death_10: -5365380099868660242
+      CatKnight_Death_11: -2586551757187527041
+      CatKnight_Death_12: -3536787465740894104
+      CatKnight_Death_13: 7343955583567052762
+      CatKnight_Death_14: 4184225630224187386
+      CatKnight_Death_15: -4468530219234468393
+      CatKnight_Death_16: 4559435207783275649
+      CatKnight_Death_17: -1200452149908863185
+      CatKnight_Death_18: 8036295014575862441
+      CatKnight_Death_19: -6783439606678395937
+      CatKnight_Death_2: -8288136764521969363
+      CatKnight_Death_20: -4132590563394909655
+      CatKnight_Death_21: 3108480528544213729
+      CatKnight_Death_22: -7396849195523260517
+      CatKnight_Death_23: 5755729535720058197
+      CatKnight_Death_24: 7409096032204696527
+      CatKnight_Death_25: 6483435352447382733
+      CatKnight_Death_26: -7545882186472741947
+      CatKnight_Death_27: -3265192671778804232
+      CatKnight_Death_28: 2248324257683833157
+      CatKnight_Death_29: -6755979833849594781
+      CatKnight_Death_3: 8199601503966464773
+      CatKnight_Death_30: -2810685507124290096
+      CatKnight_Death_31: -8312876033269074107
+      CatKnight_Death_32: -5709260047824394314
+      CatKnight_Death_33: 6453021747100243732
+      CatKnight_Death_34: 4500437929303518749
+      CatKnight_Death_35: 7398155072518445544
+      CatKnight_Death_36: 9182146231807992804
+      CatKnight_Death_37: -795817479662424520
+      CatKnight_Death_38: -1513150994906449999
+      CatKnight_Death_39: 3704387325470336047
+      CatKnight_Death_4: -6328260742076408603
+      CatKnight_Death_40: 9068387846468331943
+      CatKnight_Death_41: 2262844995515734627
+      CatKnight_Death_42: -5925088526140286843
+      CatKnight_Death_43: -1670334764692515059
+      CatKnight_Death_44: -5415703414558746079
+      CatKnight_Death_45: 4427305507048676473
+      CatKnight_Death_46: -1851264558219125643
+      CatKnight_Death_5: -8228999608062323562
+      CatKnight_Death_6: 3144596241317893814
+      CatKnight_Death_7: 6847112092634130515
+      CatKnight_Death_8: -7353335819418526826
+      CatKnight_Death_9: -4621827347372374243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

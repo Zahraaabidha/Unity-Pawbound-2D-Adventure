@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 868dac4cb6d76e24aa59b7a46bd572bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8573599282784678734
+    second: CatKnight_Idle_0
+  - first:
+      213: -780208484521965145
+    second: CatKnight_Idle_1
+  - first:
+      213: -7015174275280487291
+    second: CatKnight_Idle_2
+  - first:
+      213: 4934119928803056141
+    second: CatKnight_Idle_3
+  - first:
+      213: -8818053459724084506
+    second: CatKnight_Idle_4
+  - first:
+      213: 5508661014569023255
+    second: CatKnight_Idle_5
+  - first:
+      213: -725659446130694911
+    second: CatKnight_Idle_6
+  - first:
+      213: 793501620032925245
+    second: CatKnight_Idle_7
+  - first:
+      213: -1378021570772601610
+    second: CatKnight_Idle_8
+  - first:
+      213: -2347204294832991373
+    second: CatKnight_Idle_9
+  - first:
+      213: -5405743687041067246
+    second: CatKnight_Idle_10
+  - first:
+      213: -1914986111448979266
+    second: CatKnight_Idle_11
+  - first:
+      213: 4691404738349463745
+    second: CatKnight_Idle_12
+  - first:
+      213: -2991884440628712186
+    second: CatKnight_Idle_13
+  - first:
+      213: -2624064077810546430
+    second: CatKnight_Idle_14
+  - first:
+      213: 8584918513361157392
+    second: CatKnight_Idle_15
+  - first:
+      213: 7218488864412515811
+    second: CatKnight_Idle_16
+  - first:
+      213: -5815982874345720282
+    second: CatKnight_Idle_17
+  - first:
+      213: -8533717899667849145
+    second: CatKnight_Idle_18
+  - first:
+      213: 1411536075479664423
+    second: CatKnight_Idle_19
+  - first:
+      213: -8636036434828074551
+    second: CatKnight_Idle_20
+  - first:
+      213: -445502274405516245
+    second: CatKnight_Idle_21
+  - first:
+      213: 5590210526140574480
+    second: CatKnight_Idle_22
+  - first:
+      213: -5856250785453974464
+    second: CatKnight_Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatKnight_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 244
+        width: 261
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc431f80e4740980800000000000000
+      internalID: -8573599282784678734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 247
+        width: 271
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9825d54842c25f0800000000000000
+      internalID: -780208484521965145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 244
+        width: 272
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cb2742a2815ae90800000000000000
+      internalID: -7015174275280487291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 257
+        width: 228
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a5b73eee3897440800000000000000
+      internalID: 4934119928803056141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 241
+        width: 232
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaddb2391bff9580800000000000000
+      internalID: -8818053459724084506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 242
+        width: 238
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717fd61b102b27c40800000000000000
+      internalID: 5508661014569023255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 239
+        width: 238
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10529751490fde5f0800000000000000
+      internalID: -725659446130694911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatKnight_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 240
+        width: 236
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e62cee485130b00800000000000000
+      internalID: 793501620032925245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CatKnight_Idle_0: -8573599282784678734
+      CatKnight_Idle_1: -780208484521965145
+      CatKnight_Idle_10: -5405743687041067246
+      CatKnight_Idle_11: -1914986111448979266
+      CatKnight_Idle_12: 4691404738349463745
+      CatKnight_Idle_13: -2991884440628712186
+      CatKnight_Idle_14: -2624064077810546430
+      CatKnight_Idle_15: 8584918513361157392
+      CatKnight_Idle_16: 7218488864412515811
+      CatKnight_Idle_17: -5815982874345720282
+      CatKnight_Idle_18: -8533717899667849145
+      CatKnight_Idle_19: 1411536075479664423
+      CatKnight_Idle_2: -7015174275280487291
+      CatKnight_Idle_20: -8636036434828074551
+      CatKnight_Idle_21: -445502274405516245
+      CatKnight_Idle_22: 5590210526140574480
+      CatKnight_Idle_23: -5856250785453974464
+      CatKnight_Idle_3: 4934119928803056141
+      CatKnight_Idle_4: -8818053459724084506
+      CatKnight_Idle_5: 5508661014569023255
+      CatKnight_Idle_6: -725659446130694911
+      CatKnight_Idle_7: 793501620032925245
+      CatKnight_Idle_8: -1378021570772601610
+      CatKnight_Idle_9: -2347204294832991373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
